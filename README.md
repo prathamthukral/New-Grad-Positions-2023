@@ -29,9 +29,9 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~~Jane Street~~](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
 | [~~Raytheon Technologies~~](https://careers.rtx.com/global/en/job/01544342) | Sterling, VA | Software Engineer I, New Grad |
 | [~Cruise~](https://www.getcruise.com/careers/jobs/3851967/?department=University%20Opportunities%20%26%20Internships&search=software%20engineer) | San Francisco, CA | New Grad, Software Engineer, Developer Platform |
-| [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | US | 2023 New Analyst Program |
+| [~~Goldman Sachs~~](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | US | 2023 New Analyst Program |
 | [~~Applied Intuition~~](https://jobs.lever.co/applied/?team=New%20Grad) | Mountain View, CA | New Grad, Software Engineer |
-| [D. E. Shaw](https://www.deshaw.com/careers/choose-your-path) | NYC, London | Various tech roles |
+| [~~D. E. Shaw~~](https://www.deshaw.com/careers/choose-your-path) | NYC, London | Various tech roles |
 | [~~Indeed~~](https://university.indeed.jobs/university/jobs/39977?lang=en-us) | Remote | Associate Research Engineer |
 | [~~Capital One~~](https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-2023/31238/31914108720) | US | Technology Development Program Associate |
 | [~~Virtu Financial~~](https://www.virtu.com/careers/) | New York, NY | Entry-Level Software Engineer |
