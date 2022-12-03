@@ -43,7 +43,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~~Oracle~~](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?location=United%20States&locationId=300000000149325&selectedFlexFieldsFacets=%22AttributeChar16%7CCampusSoftware%22) | US | Software Engineer 2023 Grads (https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/my-profile) |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=LinkedIn) | US multiple | [**No Visa Sponsorship**](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=LinkedIn#:~:text=Able%20to%20legally%20live%20and%20work%20in%20the%20country%20for%20which%20you%E2%80%99re%20applying%2C%20without%20visa%20support%20or%20sponsorship%C2%A0); Software Engineer I (Full Time) United States |
 | [~~Stytch~~](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | San Francisco, CA | New Grad, Software Engineer |
-| [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
+| [~~SIG~~](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
 | [~~Raytheon Technologies~~](https://careers.rtx.com/global/en/job/01501768/Software-Engineer-I-New-Grad)  | Cedar Rapids, IA | Software Engineer I(New Grad)(Hybrid)|
 | [Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/External/job/San-Diego-USA/Software-Engineer--University-Grad-_3043053?source=APPLICANT_SOURCE-6-2)  | San Diego, CA | Software Engineer - New Grad|
 | [~~Five Rings~~](https://fiverings.avature.net/careers)  | New York, NY | Software Developer--Campus 2023 Start |
